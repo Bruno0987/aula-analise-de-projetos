@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp 2 - Next-Gen Web & Mobile Messaging",
+  "description": "WhatsApp 2 com perfis customizados, molduras animadas, conexões sociais, atalhos de texto em negrito, jogo da cobrinha secreto, cores personalizáveis e autenticação biométrica nativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
